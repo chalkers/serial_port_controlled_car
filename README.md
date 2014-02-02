@@ -11,7 +11,7 @@ Send  the following numbers over a serial port connection :
 * 3 - backward + left
 * 4 - backward
 * 5 - backward + right
-
+* 6 - switches all off
 
 ## Dependancies 
 
